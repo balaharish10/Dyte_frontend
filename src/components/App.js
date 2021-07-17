@@ -28,7 +28,7 @@ setValue(value);
   return (
     <>
    <div>
-     <h1>Dyte Project</h1>
+     <h1>Dyte_Project</h1>
       </div>
       <div className="Top_pane">
         <Editor language="HTML" displayname="HTML" value={html} onChange={sethtml} />
